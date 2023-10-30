@@ -1,6 +1,0 @@
-{
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://marksto.name/schemas/Test2",
-    "$comment": "Tests back-referencing some parent-path schema from a subschema",
-    "type": "object"
-}

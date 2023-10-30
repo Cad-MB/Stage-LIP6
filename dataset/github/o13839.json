@@ -1,8 +1,0 @@
-{
-    "additionalProperties": false,
-    "items": {
-        "type": "string"
-    },
-    "title": "Interests",
-    "type": "array"
-}
